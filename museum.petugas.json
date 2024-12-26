@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "676cb06568b4127dadb102d9"
+  },
+  "nama petugas": "haidar",
+  "tahun bertugas": 2019,
+  "job tugas ": [
+    "menjaga koleksi",
+    "mencatat tiket",
+    "merapihkan museum"
+  ]
+}]
